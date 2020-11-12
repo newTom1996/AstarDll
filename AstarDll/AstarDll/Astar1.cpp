@@ -73,20 +73,22 @@ void CalculatePath(int** map, int width, int height, int* resultX, int* resultY)
 		shared_ptr<AstarNode> curNode = closeNodesList.back().parentNode;
 		while (curNode->x != starNode->x || curNode->y != starNode->y)
 		{
-			/*resultX[resultCount] = curNode->x;
+
+			resultX[resultCount] = curNode->x;
 			resultY[resultCount] = curNode->y;
-			resultCount++;*/
-			tempPathNodesList.push_back(Node(0, curNode->x, curNode->y));
+			resultCount++;
 			curNode = curNode->parentNode;
+			/*tempPathNodesList.push_back(Node(0, curNode->x, curNode->y));
+			curNode = curNode->parentNode;*/
 		}
 	}
 	//Æ½»¬Â·¾¶
-	OptimizedPath(tempPathNodesList);
+	//OptimizedPath(tempPathNodesList);
 
-	for (size_t i = 0; i < pathNodesList.size(); i++) {
-		resultX[i] = pathNodesList[i].x;
-		resultY[i] = pathNodesList[i].y;
-	}
+	//for (size_t i = 0; i < tempPathNodesList.size(); i++) {
+	//	resultX[i] = tempPathNodesList[i].x;
+	//	resultY[i] = tempPathNodesList[i].y;
+	//}
 }
 
 /// <summary>
