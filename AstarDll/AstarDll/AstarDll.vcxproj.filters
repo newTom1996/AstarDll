@@ -47,9 +47,6 @@
     <ClCompile Include="Echo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Astar.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="AstarNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

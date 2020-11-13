@@ -1,5 +1,6 @@
 #include "Echo.h"
 #include <iostream>
+#include "pch.h"
 using namespace std;
 
 extern "C" {

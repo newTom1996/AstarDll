@@ -1,0 +1,271 @@
+﻿  pch.cpp
+  Astar.cpp
+  Astar1.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15,14): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(16,18): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(16,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(17,14): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(17,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(17,8): error C2086: “int vector”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15): message : 参见“vector”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(18,14): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(18,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(18,8): error C2086: “int vector”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15): message : 参见“vector”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(19,7): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(19,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(19,1): error C2086: “int vector”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15): message : 参见“vector”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(20,18): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(20,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(21,18): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(21,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(21,8): error C2086: “int shared_ptr”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(20): message : 参见“shared_ptr”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(22,11): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(22,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(22,1): error C2086: “int shared_ptr”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(20): message : 参见“shared_ptr”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(26,28): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(26,34): error C2065: “node1”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(26,52): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(26,58): error C2065: “node2”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(27,35): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(27,46): error C2065: “centerNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(27,62): error C2062: 意外的类型“int”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(28,11): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(28,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(28,1): error C2086: “int shared_ptr”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(20): message : 参见“shared_ptr”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(29,17): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(29,27): error C2146: 语法错误: 缺少“)”(在标识符“node”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(30,17): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(30,22): error C2146: 语法错误: 缺少“)”(在标识符“node”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(31,27): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(31,34): error C2065: “nodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(31,43): error C2182: “OptimizedPath”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(32,32): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(32,39): error C2065: “nodes”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(32,50): error C2062: 意外的类型“int”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(33,22): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(33,28): error C2065: “node1”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(33,35): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(33,41): error C2065: “node2”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(38,2): error C2065: “closeNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(43,10): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(43,16): error C2065: “nodeRow”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(44,3): error C2065: “nodeMap”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(44,21): error C2065: “nodeRow”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(47,4): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(47,9): error C2146: 语法错误: 缺少“;”(在标识符“curNode”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(47,9): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(47,28): error C2061: 语法错误: 标识符“Node”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(48,4): error C2065: “nodeMap”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(48,25): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(50,5): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(50,16): error C2065: “make_shared”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(50,28): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(53,5): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(53,15): error C2065: “make_shared”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(53,27): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,2): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,12): error C2146: 语法错误: 缺少“;”(在标识符“startAstarNode”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,47): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,57): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,76): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,89): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(58,12): error C3861: “startAstarNode”: 找不到标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,2): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,12): error C2146: 语法错误: 缺少“;”(在标识符“endAstarNode”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,35): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,45): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,67): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,79): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(59,12): error C3861: “endAstarNode”: 找不到标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(61,2): error C2065: “closeNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(61,27): error C2065: “startAstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(62,2): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(62,17): error C2065: “make_shared”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(62,29): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(62,40): error C2065: “startAstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(64,9): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(64,37): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(64,56): error C2065: “endAstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(64,74): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(64,93): error C2065: “endAstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(66,21): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(66,3): error C3861: “CheckNeighborNode”: 找不到标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(67,3): error C2065: “curCheckNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(67,18): error C3861: “UpdateOpenCloseNodeList”: 找不到标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(72,9): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(72,15): error C2065: “tempPathNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(73,6): error C2065: “closeNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(73,33): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(73,47): error C2065: “closeNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(73,74): error C2065: “endNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(74,14): error C2065: “AstarNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(74,25): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(74,35): error C2065: “closeNodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(75,10): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(75,24): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(75,39): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(75,53): error C2065: “starNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(78,27): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(79,27): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(81,4): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(81,14): error C2065: “curNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(99,27): error C2065: “Node”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(99,34): error C2065: “nodesList”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(99,43): fatal error C1003: 错误计数超过 100；正在停止编译
+  BinaryHeap.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(5,11): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(5,11): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(5,11): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(5,16): error C2039: "BinaryHeap": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6,13): error C2065: “capacity”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6,41): error C2065: “capacity”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6,49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6,51): error C2448: “currentSize”: 函数样式初始值设定项类似函数定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(10,11): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(10,11): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(10,11): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(10,16): error C2039: "BinaryHeap": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,13): error C2065: “item”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,7): error C2374: “array”: 重定义；多次初始化
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6): message : 参见“array”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,44): error C2065: “item”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,32): error C2374: “currentSize”: 重定义；多次初始化
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(6): message : 参见“currentSize”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(12,1): error C2448: “currentSize”: 函数样式初始值设定项类似函数定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,16): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,16): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,16): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,21): error C2039: "IsEmpty": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,31): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19,31): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,16): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,16): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,16): error C2182: “BinaryHeap”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,6): error C2371: “BinaryHeap”: 重定义；不同的基类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19): message : 参见“BinaryHeap”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,16): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,21): error C2039: "Insert": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,40): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(30,40): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,13): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,13): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,3): error C2371: “BinaryHeap”: 重定义；不同的基类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19): message : 参见“BinaryHeap”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,13): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,18): error C2039: "DeleteMin": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,30): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(45,30): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,16): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,16): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,16): error C2182: “BinaryHeap”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,6): error C2371: “BinaryHeap”: 重定义；不同的基类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19): message : 参见“BinaryHeap”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,16): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,21): error C2039: "PercolateDown": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(57,45): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,16): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,16): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,16): error C2182: “BinaryHeap”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,6): error C2371: “BinaryHeap”: 重定义；不同的基类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19): message : 参见“BinaryHeap”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,16): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,21): error C2039: "BuildHeap": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,33): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(76,33): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,16): error C2988: 不可识别的模板声明/定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,16): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,6): error C2374: “BinaryHeap”: 重定义；多次初始化
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(19): message : 参见“BinaryHeap”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,16): error C2059: 语法错误:“<”
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,21): error C2039: "IsContains": 不是 "`global namespace'" 的成员
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,44): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(82,44): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  dllmain.cpp
+  Echo.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(8,27): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(8,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(8,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(9,39): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(9,51): error C2062: 意外的类型“float”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(10,40): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(11,46): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(11,50): error C2182: “ReleaseEcho”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(14,12): error C2825: 'Echo': 当后面跟“::”时必须为类或命名空间
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(14,8): error C2510: “Echo”:“::”的左边必须是类/结构/联合
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(14,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(14,12): error C2365: “Echo”: 重定义；以前的定义是“数据变量”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(8): message : 参见“Echo”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(14,31): error C2550: “Echo”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(15,3): error C2065: “cout”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(15,27): error C2065: “endl”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(18,13): error C2825: 'Echo': 当后面跟“::”时必须为类或命名空间
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(18,9): error C2510: “Echo”:“::”的左边必须是类/结构/联合
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(18,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(19,3): error C2065: “cout”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(19,27): error C2065: “endl”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(20,2): warning C4508: “{dtor}”: 函数应返回一个值；假定“void”返回类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(22,18): error C2825: 'Echo': 当后面跟“::”时必须为类或命名空间
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(22,14): error C2510: “Echo”:“::”的左边必须是类/结构/联合
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(23,10): error C2065: “x”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(26,17): error C2825: 'Echo': 当后面跟“::”时必须为类或命名空间
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(26,13): error C2510: “Echo”:“::”的左边必须是类/结构/联合
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(27,3): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(30,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(30,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(30,2): error C2086: “int Echo”: 重定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(8): message : 参见“Echo”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(31,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(31,2): error C2059: 语法错误:“{”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(31,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(31,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(35,25): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(35,29): error C2182: “ReleaseEcho”: 非法使用“void”类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(35,7): error C2374: “ReleaseEcho”: 重定义；多次初始化
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(11): message : 参见“ReleaseEcho”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(36,2): error C2448: “ReleaseEcho”: 函数样式初始值设定项类似函数定义
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(40,18): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(40,30): error C2062: 意外的类型“float”
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(41,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(41,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(45,19): error C2065: “echo”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(45,8): error C2374: “GetX”: 重定义；多次初始化
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(10): message : 参见“GetX”的声明
+D:\C++Project\AstarDll\AstarDll\AstarDll\Echo.cpp(46,2): error C2448: “GetX”: 函数样式初始值设定项类似函数定义
+  AstarNode.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,21): error C2653: “AstarNode”: 不是类或命名空间名称
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,70): error C2061: 语法错误: 标识符“shared_ptr”
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,108): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,153): error C2065: “parentNode”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,168): error C2065: “x”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,174): error C2065: “y”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(6,177): error C2550: “AstarNode”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(8,1): warning C4508: “AstarNode”: 函数应返回一个值；假定“void”返回类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(10,22): error C2653: “AstarNode”: 不是类或命名空间名称
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(10,22): error C2523: “<未知>::~AstarNode”: 析构函数 标记不匹配
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(10,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(12,1): warning C4508: “AstarNode”: 函数应返回一个值；假定“void”返回类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(14,25): error C2653: “AstarNode”: 不是类或命名空间名称
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(14,34): error C2270: “GetCost”: 非成员函数上不允许修饰符
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(15,9): error C2065: “h”: 未声明的标识符
+D:\C++Project\AstarDll\AstarDll\AstarDll\AstarNode.cpp(15,13): error C2065: “g”: 未声明的标识符
+  Node.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(4,11): error C2653: “Node”: 不是类或命名空间名称
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(4,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(4,61): error C2550: “Node”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(6,1): warning C4508: “Node”: 函数应返回一个值；假定“void”返回类型
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(8,12): error C2653: “Node”: 不是类或命名空间名称
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(8,12): error C2523: “<未知>::~Node”: 析构函数 标记不匹配
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(8,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++Project\AstarDll\AstarDll\AstarDll\Node.cpp(10,1): warning C4508: “Node”: 函数应返回一个值；假定“void”返回类型
+  Add.cpp
+D:\C++Project\AstarDll\AstarDll\AstarDll\Add.cpp(7,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?

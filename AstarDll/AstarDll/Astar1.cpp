@@ -7,6 +7,7 @@
 #include <float.h>
 #include "BinaryHeap.cpp"
 #include <algorithm>
+#include "pch.h"
 using namespace std;
 
 static int mapWidth;
