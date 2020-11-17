@@ -7,7 +7,6 @@
 #include <float.h>
 #include "BinaryHeap.cpp"
 #include <algorithm>
-#include "pch.h"
 using namespace std;
 
 static int mapWidth;
@@ -36,6 +35,9 @@ void CalculatePath(int** map, int width, int height, int* resultX, int* resultY)
 	mapWidth = width;
 	mapHight = height;
 	closeNodesList.clear();
+	openNodesList.Clear();
+	nodeMap.clear();
+	pathNodesList.clear();
 
 	int count = 0;
 	for (int i = 0; i < width; i++)

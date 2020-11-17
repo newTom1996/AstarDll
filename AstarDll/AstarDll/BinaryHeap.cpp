@@ -1,6 +1,5 @@
 #include "BinaryHeap.h"
 #include <iostream>
-#include "pch.h"
 template<typename T>
 BinaryHeap<T>::BinaryHeap(int capacity)
     : array(capacity + 10), currentSize(capacity) {
@@ -86,4 +85,9 @@ bool BinaryHeap<T>::IsContains(const T& a) {
         }
     }
     return false;
+}
+
+template<typename T>
+void BinaryHeap<T>::Clear() {
+    currentSize = 0;
 }
