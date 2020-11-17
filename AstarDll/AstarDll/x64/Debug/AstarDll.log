@@ -6,10 +6,5 @@ D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(11,1): warning C4267: �
 D:\C++Project\AstarDll\AstarDll\AstarDll\BinaryHeap.cpp(10): message : 在编译 类 模板 成员函数“BinaryHeap<AstarNode>::BinaryHeap(std::vector<AstarNode,std::allocator<AstarNode>> &)”时
 D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15): message : 查看对正在编译的函数 模板 实例化“BinaryHeap<AstarNode>::BinaryHeap(std::vector<AstarNode,std::allocator<AstarNode>> &)”的引用
 D:\C++Project\AstarDll\AstarDll\AstarDll\Astar1.cpp(15): message : 查看对正在编译的 类 模板 实例化“BinaryHeap<AstarNode>”的引用
-  BinaryHeap.cpp
-  dllmain.cpp
-  Echo.cpp
-  Add.cpp
-  正在生成代码...
     正在创建库 D:\C++Project\AstarDll\AstarDll\x64\Debug\AstarDll.lib 和对象 D:\C++Project\AstarDll\AstarDll\x64\Debug\AstarDll.exp
   AstarDll.vcxproj -> D:\C++Project\AstarDll\AstarDll\x64\Debug\AstarDll.dll

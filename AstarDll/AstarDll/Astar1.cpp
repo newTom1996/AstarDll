@@ -77,21 +77,21 @@ void CalculatePath(int** map, int width, int height, int* resultX, int* resultY)
 		while (curNode->x != starNode->x || curNode->y != starNode->y)
 		{
 
-			resultX[resultCount] = curNode->x;
+			/*resultX[resultCount] = curNode->x;
 			resultY[resultCount] = curNode->y;
 			resultCount++;
-			curNode = curNode->parentNode;
-			/*tempPathNodesList.push_back(Node(0, curNode->x, curNode->y));
 			curNode = curNode->parentNode;*/
+			tempPathNodesList.push_back(Node(0, curNode->x, curNode->y));
+			curNode = curNode->parentNode;
 		}
 	}
 	//Æ½»¬Â·¾¶
-	//OptimizedPath(tempPathNodesList);
+	OptimizedPath(tempPathNodesList);
 
-	//for (size_t i = 0; i < tempPathNodesList.size(); i++) {
-	//	resultX[i] = tempPathNodesList[i].x;
-	//	resultY[i] = tempPathNodesList[i].y;
-	//}
+	for (size_t i = 0; i < pathNodesList.size(); i++) {
+		resultX[i] = pathNodesList[i].x;
+		resultY[i] = pathNodesList[i].y;
+	}
 }
 
 /// <summary>
@@ -139,7 +139,7 @@ void DichotomyEliminate(vector<Node>& nodes, int minIndex, int maxIndex) {
 		}
 		else
 		{
-			int middleIndex = (maxIndex - minIndex + 1) / 2;
+			int middleIndex = (maxIndex - minIndex + 1) / 2 + minIndex;
 			DichotomyEliminate(nodes, minIndex, middleIndex);
 			DichotomyEliminate(nodes, middleIndex, maxIndex);
 		}
