@@ -85,6 +85,7 @@ void CalculatePath(int** map, int width, int height, int* resultX, int* resultY)
 			curNode = curNode->parentNode;
 		}
 	}
+
 	//Æ½»¬Â·¾¶
 	OptimizedPath(tempPathNodesList);
 
@@ -181,7 +182,7 @@ bool IsCrossObstacle(Node& node1, Node& node2) {
 		else
 		{
 			//Ð±ÂÊ
-			float k = (node1.y - node2.y) / (node1.x - node2.x);
+			float k = (float)(node1.y - node2.y) / (float)(node1.x - node2.x);
 			for (int i = 1; i < abs(node2.x - node1.x); i++) {
 				int sign = node1.x - node2.x > 0 ? 1 : -1;
 				int checkX = min(node2.x + i * sign, mapWidth - 1);	
