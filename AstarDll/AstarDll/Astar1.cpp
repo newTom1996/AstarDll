@@ -183,11 +183,12 @@ bool IsCrossObstacle(Node& node1, Node& node2) {
 		{
 			//Ð±ÂÊ
 			float k = (float)(node1.y - node2.y) / (float)(node1.x - node2.x);
+			float b = node2.y - node2.x * k;
 			for (int i = 1; i < abs(node2.x - node1.x); i++) {
 				int sign = node1.x - node2.x > 0 ? 1 : -1;
 				int checkX = min(node2.x + i * sign, mapWidth - 1);	
 				checkX = max(0, checkX);
-				int checkY = min(int(node2.y + checkX * k), mapHight - 1);
+				int checkY = min(int(b + checkX * k), mapHight - 1);
 				checkY = max(0, checkY);
 				if (nodeMap[checkX][checkY].type == 3) {
 					return true;
